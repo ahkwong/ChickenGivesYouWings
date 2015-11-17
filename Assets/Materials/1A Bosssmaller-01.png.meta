@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: f91df5e0878448448843c4fde5d34276
+timeCreated: 1447599427
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: 1A Bosssmaller-01_0
+    21300002: 1A Bosssmaller-01_1
+    21300004: 1A Bosssmaller-01_2
+    21300006: 1A Bosssmaller-01_3
+    21300008: 1A Bosssmaller-01_4
+    21300010: 1A Bosssmaller-01_5
+    21300012: 1A Bosssmaller-01_6
+    21300014: 1A Bosssmaller-01_7
+    21300016: 1A Bosssmaller-01_8
+    21300018: 1A Bosssmaller-01_9
+    21300020: 1A Bosssmaller-01_10
+    21300022: 1A Bosssmaller-01_11
+    21300024: 1A Bosssmaller-01_12
+    21300026: 1A Bosssmaller-01_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: 1A Bosssmaller-01_0
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 6196
+        width: 1039
+        height: 954
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 1A Bosssmaller-01_1
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 6179
+        width: 1039
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 1A Bosssmaller-01_2
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 5122
+        width: 1039
+        height: 953
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 1A Bosssmaller-01_3
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 5129
+        width: 1038
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 1A Bosssmaller-01_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 3969
+        width: 1039
+        height: 954
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 1A Bosssmaller-01_5
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 3973
+        width: 1039
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 1A Bosssmaller-01_6
+      rect:
+        serializedVersion: 2
+        x: 2994
+        y: 3983
+        width: 1039
+        height: 940
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 1A Bosssmaller-01_7
+      rect:
+        serializedVersion: 2
+        x: 4289
+        y: 3990
+        width: 1039
+        height: 933
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 1A Bosssmaller-01_8
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 2923
+        width: 1125
+        height: 783
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 1A Bosssmaller-01_9
+      rect:
+        serializedVersion: 2
+        x: 1649
+        y: 2912
+        width: 1121
+        height: 783
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 1A Bosssmaller-01_10
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1462
+        width: 1303
+        height: 975
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 1A Bosssmaller-01_11
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 1470
+        width: 1205
+        height: 963
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 1A Bosssmaller-01_12
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 278
+        width: 1209
+        height: 962
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: 1A Bosssmaller-01_13
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 278
+        width: 1205
+        height: 967
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

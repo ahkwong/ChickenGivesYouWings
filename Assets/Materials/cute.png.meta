@@ -1,0 +1,110 @@
+fileFormatVersion: 2
+guid: 8fa7680e03c14ac4bad44fddef70f66d
+timeCreated: 1447583136
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: cute_0
+    21300002: cute_1
+    21300004: cute_2
+    21300006: cute_3
+    21300008: cute_4
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: cute_0
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 30
+        width: 338
+        height: 432
+      alignment: 9
+      pivot: {x: .331185073, y: .573720217}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cute_1
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 37
+        width: 335
+        height: 436
+      alignment: 9
+      pivot: {x: .34155646, y: .573043883}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cute_2
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 28
+        width: 332
+        height: 426
+      alignment: 9
+      pivot: {x: .336128145, y: .57475847}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cute_3
+      rect:
+        serializedVersion: 2
+        x: 1423
+        y: 337
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cute_4
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 41
+        width: 330
+        height: 426
+      alignment: 9
+      pivot: {x: .331113875, y: .568528652}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

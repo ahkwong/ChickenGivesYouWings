@@ -1,0 +1,99 @@
+fileFormatVersion: 2
+guid: 4e7a2891fa978204cbbacebeb24428ff
+timeCreated: 1447553255
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: attackwithsword_0
+    21300002: attackwithsword_1
+    21300004: attackwithsword_2
+    21300006: attackwithsword_3
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: attackwithsword_0
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 25
+        width: 126
+        height: 257
+      alignment: 9
+      pivot: {x: .506382108, y: .327907681}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attackwithsword_1
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 23
+        width: 150
+        height: 260
+      alignment: 9
+      pivot: {x: .424946904, y: .339171976}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attackwithsword_2
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 25
+        width: 224
+        height: 239
+      alignment: 9
+      pivot: {x: .227166578, y: .345228225}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: attackwithsword_3
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 25
+        width: 205
+        height: 211
+      alignment: 9
+      pivot: {x: .237183213, y: .393289477}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
